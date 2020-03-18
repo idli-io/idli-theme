@@ -193,7 +193,7 @@
       --color-blue-9: #2e5f9d;
       --color-blue-10: #22436c;
       --color-blue-11: #0f243f;
-      --color-primary: var(--color-indigo-6);
+      --color-primary: var($color-indigo-6);
       --color-woodsmoke: #16161d;
       --color-gandalf: #414155;
       --color-gunpowder: #505061;
