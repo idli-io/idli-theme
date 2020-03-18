@@ -1,6 +1,6 @@
 {
   "name": "@idli/theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Idli component colors and common styles",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/idli-io/idli-theme/issues"
   },
-  "homepage": "https://github.com/idli-io/idli-theme#readme"
+  "homepage": "https://idli.io"
 }

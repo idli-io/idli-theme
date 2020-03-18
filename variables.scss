@@ -192,7 +192,7 @@ $color-blue-8: var(--color-blue-8,  #3875c3);
 $color-blue-9: var(--color-blue-9,  #2e5f9d);
 $color-blue-10: var(--color-blue-10,  #22436c);
 $color-blue-11: var(--color-blue-11,  #0f243f);
-$color-primary: var(--color-primary,  --color-indigo-6);
+$color-primary: var(--color-primary,  $color-indigo-6);
 $color-woodsmoke: var(--color-woodsmoke,  #16161d);
 $color-gandalf: var(--color-gandalf,  #414155);
 $color-gunpowder: var(--color-gunpowder,  #505061);
